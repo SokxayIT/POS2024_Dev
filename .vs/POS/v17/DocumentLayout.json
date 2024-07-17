@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project POS and upload\\2024\\POS-2023 - update UPDATE Close Check user online\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA368DB2-F4F8-412F-88E4-37DDBCA9EB99}|POS\\POS.csproj|D:\\project POS and upload\\2024\\POS-2023 - update UPDATE Close Check user online\\pos\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA368DB2-F4F8-412F-88E4-37DDBCA9EB99}|POS\\POS.csproj|solutionrelative:pos\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA368DB2-F4F8-412F-88E4-37DDBCA9EB99}|POS\\POS.csproj|d:\\project pos and upload\\2024\\pos-2023 - update update close check user online\\pos\\forms\\frmbillrefundproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA368DB2-F4F8-412F-88E4-37DDBCA9EB99}|POS\\POS.csproj|solutionrelative:pos\\forms\\frmbillrefundproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA368DB2-F4F8-412F-88E4-37DDBCA9EB99}|POS\\POS.csproj|D:\\project POS and upload\\2024\\POS-2023 - update UPDATE Close Check user online\\pos\\forms\\frmbillrefundproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA368DB2-F4F8-412F-88E4-37DDBCA9EB99}|POS\\POS.csproj|solutionrelative:pos\\forms\\frmbillrefundproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA368DB2-F4F8-412F-88E4-37DDBCA9EB99}|POS\\POS.csproj|D:\\project POS and upload\\2024\\POS-2023 - update UPDATE Close Check user online\\pos\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA368DB2-F4F8-412F-88E4-37DDBCA9EB99}|POS\\POS.csproj|solutionrelative:pos\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBillRefundProduct.cs",
+              "DocumentMoniker": "D:\\project POS and upload\\2024\\POS-2023 - update UPDATE Close Check user online\\POS\\Forms\\FrmBillRefundProduct.cs",
+              "RelativeDocumentMoniker": "POS\\Forms\\FrmBillRefundProduct.cs",
+              "ToolTip": "D:\\project POS and upload\\2024\\POS-2023 - update UPDATE Close Check user online\\POS\\Forms\\FrmBillRefundProduct.cs",
+              "RelativeToolTip": "POS\\Forms\\FrmBillRefundProduct.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAowI8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T04:16:52.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBillRefundProduct.cs [Design]",
+              "DocumentMoniker": "D:\\project POS and upload\\2024\\POS-2023 - update UPDATE Close Check user online\\POS\\Forms\\FrmBillRefundProduct.cs",
+              "RelativeDocumentMoniker": "POS\\Forms\\FrmBillRefundProduct.cs",
+              "ToolTip": "D:\\project POS and upload\\2024\\POS-2023 - update UPDATE Close Check user online\\POS\\Forms\\FrmBillRefundProduct.cs [Design]",
+              "RelativeToolTip": "POS\\Forms\\FrmBillRefundProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T04:16:41.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "D:\\project POS and upload\\2024\\POS-2023 - update UPDATE Close Check user online\\POS\\Forms\\FrmMain.cs",
+              "RelativeDocumentMoniker": "POS\\Forms\\FrmMain.cs",
+              "ToolTip": "D:\\project POS and upload\\2024\\POS-2023 - update UPDATE Close Check user online\\POS\\Forms\\FrmMain.cs",
+              "RelativeToolTip": "POS\\Forms\\FrmMain.cs",
+              "ViewState": "AQIAANECAAAAAAAAAAAEwNoCAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:24:59.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "D:\\project POS and upload\\2024\\POS-2023 - update UPDATE Close Check user online\\POS\\Forms\\FrmMain.cs",
+              "RelativeDocumentMoniker": "POS\\Forms\\FrmMain.cs",
+              "ToolTip": "D:\\project POS and upload\\2024\\POS-2023 - update UPDATE Close Check user online\\POS\\Forms\\FrmMain.cs [Design]",
+              "RelativeToolTip": "POS\\Forms\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:23:53.345Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
